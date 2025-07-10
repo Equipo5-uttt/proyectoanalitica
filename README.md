@@ -7,7 +7,14 @@ determinando si un servicio está cubierto directamente o si requiere autorizaci
 
 ## ¿Por qué este proyecto?
 
-Este proyecto fue creado como una práctica para demostrar los conocimientos de phyton aplicados en escenarios reales y cómo estructurar proyectos simples
+Los procesos de autorización en salud suelen ser lentos, repetitivos y propensos a errores humanos. Este proyecto busca automatizar y agilizar la validación de servicios médicos, reduciendo la dependencia de aprobaciones manuales y mejorando la eficiencia operativa. Al conectar con hojas públicas de Google Sheets, se simula un entorno real de consulta masiva donde se centraliza la información clave para tomar decisiones rápidas.
+Además, el sistema ofrece:
+- Respuesta inmediata sobre la cobertura de servicios.
+- Trazabilidad de decisiones en cada etapa del proceso.
+- Flexibilidad para escalar a otros servicios o formatos de datos.
+- Simulación clara en 5 pasos, ideal para pruebas o capacitaciones internas.
+En resumen, este proyecto representa una solución práctica y escalable que puede aplicarse a entidades prestadoras de salud que necesitan validar coberturas sin saturar sus canales de atención.
+
 
 ## Uso
 
